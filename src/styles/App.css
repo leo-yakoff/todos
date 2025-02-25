@@ -1,0 +1,32 @@
+#app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}
+
+.add-todo {
+  display: flex;
+  column-gap: 0.5rem;
+}
+
+.todo-item.completed {
+  text-decoration: line-through;
+}
+
+footer {
+  display: flex;
+  column-gap: 2rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.filter-container {
+  display: flex;
+  column-gap: 0.5rem;
+}
