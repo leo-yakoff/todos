@@ -10,7 +10,8 @@ main {
   row-gap: 0.5rem;
 }
 
-.add-todo {
+.add-todo,
+.filter-container {
   display: flex;
   column-gap: 0.5rem;
 }
@@ -24,9 +25,4 @@ footer {
   column-gap: 2rem;
   justify-content: center;
   margin-top: 1rem;
-}
-
-.filter-container {
-  display: flex;
-  column-gap: 0.5rem;
 }

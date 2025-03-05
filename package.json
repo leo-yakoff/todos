@@ -1,6 +1,6 @@
 {
   "name": "todos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An app that allows you to manage your current to-do list",
   "scripts": {
     "test": "jest",
